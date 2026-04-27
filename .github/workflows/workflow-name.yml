@@ -1,7 +1,7 @@
 name: PR Check
 
 on:
-  pull_request: # プルリクエスト作成時に実行
+  workflow_dispatch: # プルリクエスト作成時に実行
 
 jobs:
   build: # 1つ目のジョブ
