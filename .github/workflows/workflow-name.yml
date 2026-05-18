@@ -2,7 +2,7 @@ name: PR Check
 
 on:
   workflow_dispatch: # 手動実行
-    inputs: # 手動実行の時などにinputsの指定ができる。実行時にパラメータを渡す
+#    inputs: # 手動実行の時などにinputsの指定ができる。実行時にパラメータを渡す
 #      description: 'Deploy target environment' # 説明
 #      required: true # 入力パラメータを必須（true）にするかどうか
 #      default: 'staging'
