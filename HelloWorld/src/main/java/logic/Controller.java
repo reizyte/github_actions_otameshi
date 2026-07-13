@@ -1,4 +1,4 @@
-package java.logic.main;
+package main.java.logic;
 
 import java.io.IOException;
 import java.util.ArrayList;

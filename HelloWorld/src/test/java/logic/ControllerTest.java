@@ -1,9 +1,9 @@
-package java.logic.test;
+package test.java.logic;
 
 
 import static org.junit.Assert.assertEquals;
 
-import java.logic.main.Controller;
+import main.java.logic.Controller;
 
 import org.junit.Test;
 
