@@ -53,7 +53,7 @@
 	  			<configuration>
 				  	<archive>
 				  		<manifest>
-				  			<mainClass>main.java.logic.controller</mainClass>
+				  			<mainClass>main.java.logic.Controller</mainClass>
 				  		</manifest>
 			  		</archive>
 				  </configuration>

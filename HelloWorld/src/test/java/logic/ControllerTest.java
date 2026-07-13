@@ -1,11 +1,10 @@
 package test.java.logic;
 
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 
 import main.java.logic.Controller;
-
-import org.junit.Test;
 
 public class ControllerTest {
     Controller controller = new Controller();
