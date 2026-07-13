@@ -1,0 +1,3 @@
+vscodeのショートカット
+・コードの成形
+shift + Alt + F
