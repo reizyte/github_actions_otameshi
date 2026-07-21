@@ -1,4 +1,4 @@
-package main.java.logic.data;
+package jp.co.logic.data;
 
 public class entity {
     public String dog;

@@ -1,4 +1,4 @@
-package main.java.logic;
+package jp.co.logic;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -45,9 +45,9 @@ public class Controller {
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(outputFile))) {
             if (outputFile.exists()) {
                 outputFile.delete();
-                System.out.println("既にある出力ファイルを削除したワンね～～");
+                System.out.println("既にある出力ファイルを削除");
             }
-            bw.write("わんが天気予報をするワンね～～");
+            bw.write("天気の統計を書き込み");
             bw.newLine();
             for (String list : inputList) {
                 bw.write(list);
